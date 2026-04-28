@@ -80,7 +80,7 @@ src/test/java
 
 * Mobile automation is added as a placeholder (Appium setup required for full execution)
 * Cross-browser testing is not included
-
+Note: ChromeDriver is not included. Please download and place it in project root before execution.
 ---
 
 ## Author
